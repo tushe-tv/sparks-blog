@@ -275,6 +275,17 @@
     }
   },
   {
+    "slug": "family-travel-guide-keeping-everyone-connected-abroad",
+    "title": "Family Travel Guide: Keeping Everyone Connected Abroad",
+    "description": "Traveling with family adds extra complexity to staying connected. Here's how to manage multiple devices and keep everyone online during your international adventures.",
+    "datePublished": "2025-09-08",
+    "img": {
+      "src": "family-travel-guide.webp",
+      "width": 1500,
+      "height": 1001
+    }
+  },
+  {
     "slug": "digital-nomad-essentials-long-term-travel-connectivity-guide",
     "title": "Digital Nomad Essentials: Long-Term Travel Connectivity Guide",
     "description": "Working while traveling? Your internet connection is your lifeline. Here's how to ensure you're always connected, productive, and ready for that next video call.",
@@ -316,17 +327,6 @@
       "src": "the-perfect-timing.webp",
       "width": 1000,
       "height": 1500
-    }
-  },
-  {
-    "slug": "family-travel-guide-keeping-everyone-connected-abroad",
-    "title": "Family Travel Guide: Keeping Everyone Connected Abroad",
-    "description": "Traveling with family adds extra complexity to staying connected. Here's how to manage multiple devices and keep everyone online during your international adventures.",
-    "datePublished": "2025-09-08",
-    "img": {
-      "src": "family-travel-guide.webp",
-      "width": 1500,
-      "height": 1001
     }
   }
 ]
