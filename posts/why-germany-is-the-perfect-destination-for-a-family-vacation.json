@@ -6,13 +6,9 @@
   "dateModified": "2026-03-15",
   "countries": [
     "Germany",
-    "France"
-  ],
-  "packageNames": [
-    "GERMANY",
-    "FRANCE",
-    "SWITZERLAND",
-    "EUROPEPLUS"
+    "France",
+    "Switzerland",
+    "EuropePlus"
   ],
   "img": {
     "src": "why-germany-is-the-perfect-destination.webp",

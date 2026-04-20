@@ -6,12 +6,8 @@
   "dateModified": "2026-03-15",
   "countries": [
     "United States",
-    "Turkey"
-  ],
-  "packageNames": [
-    "UNITED_STATES",
-    "EUROPEPLUS",
-    "TURKEY"
+    "Turkey",
+    "EuropePlus"
   ],
   "img": {
     "src": "essential-travel-tips.webp",
